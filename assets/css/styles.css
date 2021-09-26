@@ -43,8 +43,12 @@ a.nav-item:hover {
 }
 
 .avatar{
-	height:300px;
+	height:400px;
 	border-radius: 50%;
+}
+
+.logo{
+	height:50px;
 }
 
 .intro-description{
